@@ -1,0 +1,41 @@
+body{
+    background-color: forestgreen;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+ul{
+    display: block;
+    align-content: center;
+}
+
+li{
+    display: inline;
+    background-color: #3ba43b;
+    margin: 12px;
+}
+
+a{
+    color: rebeccapurple;
+}
+
+a.button{
+    padding: 1px 6px;
+    border: 1px outset #3ba43b;
+    border-radius: 3px;
+    color: rebeccapurple;
+    background-color: #3ba43b;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color: black;
+}
+
+.list1{
+    margin-left: 20%;
+}
